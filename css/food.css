@@ -186,7 +186,7 @@ margin-top: -12%;
   margin-top: 2%;
 }
 
-.title {
+.titles {
   font-weight: 600;
   color: rgb(55, 40, 31);
   font-size: 2rem;
@@ -655,4 +655,16 @@ width: 80%;
 }
 .imghamburguer{
 width: 70%;
+}
+.card {
+  width: 25rem;
+}
+
+.card-body{
+  color: FCE6BB;
+}
+
+.card-img-top {
+  width: 200px;
+  height: 220px;
 }
